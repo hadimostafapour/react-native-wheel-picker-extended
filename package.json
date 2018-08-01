@@ -1,0 +1,25 @@
+{
+  "name": "react-native-wheel-picker-extended",
+  "version": "1.2.0",
+  "description": "React native cross platform wheel picker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadimostafapour/react-native-wheel-picker-extended.git"
+  },
+  "keywords": [
+    "react-native",
+    "picker",
+	"wheel"
+  ],
+  "author": "Hadi Mostafapour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hadimostafapour/react-native-wheel-picker-extended/issues"
+  },
+  "homepage": "https://github.com/hadimostafapour/react-native-wheel-picker-extended#readme",
+  "dependencies": {}
+}
